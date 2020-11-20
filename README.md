@@ -10,15 +10,14 @@ My name is Can ER,
 
 ## 🧪 Job
 
--
+- I am a Secondary School Student
 
 ## ⛵ I'm currently working on
 -
 
 ## 🐬 How to reach me
-
-<a href="https://www.linkedin.com/in/-----/">
-  <img align="left" alt="Can's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+<a href="https://gmail.com">
+  <img align="left" alt="Can's Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/gmail.svg"/>
 </a>
 <a href="https://github.com/canbluebird">
   <img align="left" alt="Can's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>
