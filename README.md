@@ -1,6 +1,6 @@
 ## ⭐ Hello
 
--My name is Can ER,
+- My name is Can ER,
 
 
 [![Can's GitHub Stats](https://github-readme-stats.vercel.app/api?username=canbluebird&show_icons=true&count_private=true)](https://github.com/canbluebird)
