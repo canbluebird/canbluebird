@@ -16,7 +16,7 @@ My name is Can ER,
 -
 
 ## 🐬 How to reach me
-  <img align="left" alt="Can's Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/gmail.svg"/>can222er@gmail.com
+  <img align="left" alt="Can's Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/gmail.svg">can222er@gmail.com</img>
 <a href="https://github.com/canbluebird">
   <img align="left" alt="Can's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>
 </a>
